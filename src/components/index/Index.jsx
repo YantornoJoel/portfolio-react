@@ -11,7 +11,7 @@ export const Index = () => {
     useEffect(() => {
         init(textRef.current, {
             backDelay: 1500,
-            backSpeed: 60, 
+            backSpeed: 60,
             showCursor: true,
             strings: ["Reactjs", "Junior"]
         });
@@ -21,7 +21,7 @@ export const Index = () => {
         <div className="index" id="index">
             <div className="left">
                 <div className="imgContainer">
-                    <img src="assets/yo.jpg" alt="" />
+                    <img src="assets/yo1.webp" alt="" />
                 </div>
             </div>
             <div className="right">

@@ -41,4 +41,25 @@
             }
         }
     }
+
+    .wrapper{
+        padding: 15px 30px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+
+        .itemContainer{
+            
+
+            .icon{
+                color: white;
+                font-size: 75px;
+                cursor: pointer;
+                margin: 0;
+                padding: 0;
+                width: 60%;
+            }
+        }
+    }
 }
