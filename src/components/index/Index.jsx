@@ -21,7 +21,7 @@ export const Index = () => {
         <div className="index" id="index">
             <div className="left">
                 <div className="imgContainer">
-                    <img src="assets/yo1.webp" alt="" />
+                    <img src="assets/yo.jpg" alt="" />
                 </div>
             </div>
             <div className="right">
